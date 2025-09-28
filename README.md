@@ -72,4 +72,5 @@ This analysis provides **evidence-based insights** into India’s COVID-19 respo
 
 ## Jupyter Notebook
 
-The complete workflow, analysis, and visualizations are available in this repository.
+The complete workflow, analysis, and visualizations are available in this repository:
+📄 **[covid19-india-analysis.ipynb](covid19-india-analysis.ipynb)**
